@@ -1,0 +1,59 @@
+/*
+Theme Name: Ten Three One
+Theme URI: http://www.nookhouses.com
+Description: Ten Three One 
+Author: Stani Meredith
+Author URI: http://www.stanimeredith.com
+Tags: responsive
+Version: 1.0
+ 
+This is a sample comment and needs to go before the closing of the comment section
+*/
+ 
+body {
+        background:#ccfff2;
+        margin:10px 0;
+        padding:10px 0;
+        font-family: Arial, Verdana, sans-serif;
+}
+ 
+a, a:visited {
+        color:#003326;
+        text-decoration:none;
+       
+}
+ 
+a:hover, a:active {
+        text-decoration:underline;
+}
+ 
+ 
+#header {
+text-align:center;
+padding:50px 0;
+}
+ 
+.sidebar {
+width:200px;
+float:left;
+display:block;
+padding:10px 10px;
+background:#00cc96;
+margin-right: 20px;
+}
+ 
+#content {
+background-color: #80ffdd;
+margin-left: 20px;
+padding: 10px 10px;
+
+}
+
+#footer {
+clear:both;
+padding:15px 0;
+
+border-top:2px solid  #001a13;
+text-align:center;
+
+}
